@@ -1,0 +1,105 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.6.1
+#@/tick	94
+#@/user_id	5e109ee6-f15e-4da7-96da-b565e8bd9863
+a 	啊	c=0 d=0.0960789 t=94
+an le 	安樂	c=0 d=0.0802519 t=94
+an zhuang 	安裝	c=2 d=1.95064 t=94
+bian yi 	便宜	c=0 d=0.0955997 t=94
+bu dong le 	不動了	c=1 d=0.744532 t=94
+bu neng zai 	不能再	c=1 d=0.852144 t=94
+chang feng po lang hui you shi 	长风破浪会有时	c=1 d=1 t=85
+cun luo 	村落	c=1 d=0.839457 t=94
+da rao le 	打擾了	c=3 d=2.38402 t=94
+da ren 	大人	c=0 d=0.0802519 t=94
+da ren an le 	大人安樂	c=1 d=0.806541 t=94
+dang ni 	當你	c=0 d=0.0697676 t=94
+dang ni zou le 	當你走了	c=1 d=0.701173 t=94
+de 	的	c=1 d=0.778801 t=94
+dong de 	懂得	c=0 d=0.0733447 t=94
+dong de dou dong 	懂得抖動	c=1 d=0.737123 t=94
+dong le 	懂了	c=2 d=1.81248 t=94
+dong le jiu xing 	懂了就行	c=2 d=1.63742 t=94
+dong le ma 	懂了嗎	c=1 d=1 t=91
+dong le me 	懂了麼	c=1 d=0.927743 t=94
+dou dong 	抖動	c=0 d=0.0733447 t=94
+dui 	對	c=1 d=0.842621 t=94
+e mo 	惡魔	c=0 d=0.0913931 t=94
+fan wei 	範圍	c=0 d=0.0806541 t=94
+fan wei shen er mei 	範圍甚而沒	c=1 d=0.810584 t=94
+hao 	好	c=0 d=0.1 t=92
+hao yong de 	好用的	c=1 d=1 t=93
+huan qi 	喚起	c=1 d=0.794534 t=94
+hui you ren 	會有人	c=1 d=0.908423 t=94
+ji guan de 	籍貫地	c=1 d=0.83527 t=94
+ji huo 	激活	c=1 d=0.722527 t=94
+jian ti 	簡體	c=1 d=0.677057 t=94
+jie jue 	解決	c=1 d=0.847894 t=94
+jie ya 	解壓	c=1 d=0.941765 t=94
+jiu 	就	c=0 d=0.0927743 t=94
+jiu xing 	就行	c=0 d=0.0704688 t=94
+kai shi le 	開始了	c=3 d=2.49281 t=94
+le 	了	c=0 d=0.1 t=86
+ma 	嗎	c=0 d=0.1 t=90
+me 	麼	c=1 d=1.01543 t=94
+mei 	沒	c=0 d=0.0806541 t=94
+ming yue pin yin 	朙月拼音	c=1 d=0.683861 t=94
+mo ren 	默認	c=0 d=0.071177 t=94
+mo ren zhuang tai 	默認狀態	c=1 d=0.715338 t=94
+ni hui 	你會	c=0 d=0.1 t=89
+ni hui zhe yang zi 	你會這樣子	c=1 d=1 t=90
+ni shuo 	你說	c=1 d=0.904295 t=94
+ni shuo de 	你說的	c=1 d=1.15684 t=94
+ni shuo de dui 	你說的對	c=7 d=5.19796 t=94
+ni shuo de dui a 	你說的對啊	c=1 d=0.965605 t=94
+ni shuo de shi 	你說的是	c=4 d=3.83212 t=94
+ni shuo hui you ren 	你說會有人	c=1 d=0.818731 t=94
+ni shuo ne 	你說呢	c=1 d=1 t=84
+pei zhi 	配置	c=2 d=1.85214 t=94
+pi fu 	皮膚	c=1 d=0.755784 t=94
+ran gong 	染工	c=0 d=0.0701173 t=94
+ran gong wo wei ni xia ge 	染工我爲你下個	c=1 d=0.704688 t=94
+ru he 	如何	c=2 d=1.60739 t=94
+she zhi 	設置	c=1 d=0.67368 t=94
+shen er 	甚而	c=0 d=0.0806541 t=94
+shi 	是	c=0 d=0.0891366 t=94
+shi zhe yang de 	是這樣的	c=1 d=0.733447 t=94
+shu ru 	輸入	c=1 d=0.869358 t=94
+shu ru fa 	輸入法	c=3 d=2.2175 t=94
+su dong 	速凍	c=1 d=0.891366 t=94
+wei 	爲	c=1 d=0.718924 t=94
+wei shen 	爲什	c=0 d=0.0913931 t=94
+wei shen e mo 	爲什惡魔	c=1 d=0.918512 t=94
+wei shen me 	爲什麼	c=1 d=1 t=89
+wen jian 	文件	c=2 d=1.85586 t=94
+wo 	我	c=0 d=0.1 t=85
+wo gan jiao 	我感覺	c=1 d=0.729789 t=94
+wo hai shi 	我還是	c=1 d=0.740818 t=94
+wo hao 	我好	c=0 d=0.1 t=86
+wo hao le 	我好了	c=1 d=1 t=87
+wo kai shi le 	我開始了	c=1 d=1 t=86
+wo wei ni 	我爲你	c=0 d=0.0701173 t=94
+wo zhi dao le 	我知道了	c=4 d=3.31738 t=94
+wu fa 	無法	c=1 d=0.786628 t=94
+xia 	下	c=1 d=0.865022 t=94
+xia ge 	下個	c=0 d=0.0701173 t=94
+xiang xin ni 	相信你	c=1 d=0.88692 t=94
+xiao lang hao 	小狼毫	c=0 d=0.0683861 t=94
+xiao lang hao zi ti 	小狼毫字體	c=1 d=0.687289 t=94
+yong de 	用的	c=0 d=0.1 t=92
+you shen me 	有神么	c=1 d=1 t=92
+yu 	與	c=0 d=0.0955997 t=94
+yu bian yi 	與便宜	c=1 d=0.960789 t=94
+zai 	在	c=3 d=2.54823 t=94
+zai na li 	在哪裏	c=1 d=0.913931 t=94
+zhao huan 	召喚	c=1 d=0.790571 t=94
+zhe yang zi 	這樣子	c=0 d=0.1 t=89
+zhi chi 	支持	c=1 d=0.782705 t=94
+zhi dao 	知道	c=0 d=0.0927743 t=94
+zhi dao jiu 	知道就	c=1 d=0.932394 t=94
+zhong wen 	中文	c=1 d=0.873716 t=94
+zhuang tai 	狀態	c=0 d=0.071177 t=94
+zi ti 	字體	c=2 d=2.02881 t=94
+zou le 	走了	c=0 d=0.0697676 t=94
